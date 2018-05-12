@@ -1,0 +1,29 @@
+_repo: Fifty-Years-of-Golf_37394
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hutchinson, Horace G. (Horace Gordon)
+    alias: Hutchinson, Horatio Gordon
+    birthdate: 1859
+    deathdate: 1932
+    gutenberg_agent_id: '38825'
+    url: http://www.gutenberg.org/2009/agents/38825
+    wikipedia: https://en.wikipedia.org/wiki/Horace_Hutchinson
+description: ''
+gutenberg_issued: '2011-09-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37394'
+  lccn: '20007734'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Golf'
+- !lcc 'GV'
+title: Fifty Years of Golf
+url: http://www.gutenberg.org/ebooks/37394
