@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38825
     wikipedia: https://en.wikipedia.org/wiki/Horace_Hutchinson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37394#Fifty-Years-of-Golf
 gutenberg_issued: '2011-09-12'
 gutenberg_type: Text
 identifiers:
